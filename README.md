@@ -3,6 +3,7 @@
 | Проект | Описание | Библиотеки &nbsp; &nbsp; | Навыки &nbsp; &nbsp; |
 |---|---|---|---|
 | [CT-ORG](СT-ORG) | Cегментация внутренних органов человека на 3D снимках КТ томографа | `Pandas` `NumPy` `PIL` `Matplotlib` `PyTorch` `3D UNet` | `ML`<br>`Computer Vision` |
+| [Video-games](video-games) | Исследование датасета о продаже игр на различных платформах | `Pandas` `Numpy` `Matplotlib` `Seaborn` `SciPy`  `A/B` | `Data Analysis` |
 | [Toxic-commentsв](Toxic-comments) | Классификация текстовых комментариев на позитивные и негативные |  `Pandas` `Sklearn` `Seaborn` `NLTK` `Matplotlib` | `ML`<br>`NLP` `tf-idf` |
 | [lastFm](lastFm) | Создание простейших рекомендательных систем, на основе item-item и user-item  | `Pandas` `NumPy` `Sklearn` `SciPy` | `Рекомендательные системы` |
 | [Give-Me-Some-Credit](Give-Me-Some-Credit) | Анализ клиентов банка, геренация новых признаков, создание модели машинного обучения, предсказывающая просрочку по кредиту клиентом | `Pandas` `NumPy` `SciPy` `Seaborn` `Matplotlib` `Sklearn` `Optuna` `LightGBM` `CatBoost` `XGBoost` | `Data Analysis`<br>`ML`<br>`Классификация` |
